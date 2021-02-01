@@ -35,8 +35,9 @@ int main()
                         cout << h[k] << '\n';
                     }
                 }
-                break;
+                return 0;
             }
         }
     }
+    return 0;
 }

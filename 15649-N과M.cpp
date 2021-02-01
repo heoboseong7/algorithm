@@ -3,6 +3,7 @@
 using namespace std;
 
 vector<int> prog;
+bool check[10];
 int n, m;
 void rec(int here)
 {
@@ -13,12 +14,16 @@ void rec(int here)
         cout << '\n';
         return;
     }
-    if (here <= n)
+    for (int i = 1; i <= n; i++)
     {
-        prog.push_back(here);
-        rec(here + 1);
-        prog.pop_back();
-        rec(here + 1);
+        if (!check[i])
+        {
+            prog.push_back(i);
+            check[i] = true;
+            rec(here + 1);
+            prog.pop_back();
+            check[i] = false;
+        }
     }
 }
 
