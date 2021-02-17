@@ -1,32 +1,15 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-vector<int> prog;
-int n, m;
-void rec(int here)
-{
-    if (prog.size() == m)
+f (v.size() == 3)
     {
-        for (int i = 0; i < prog.size(); i++)
-            cout << prog[i] << ' ';
-        cout << '\n';
+        for (int i = 0; i < v.size(); i++)
+        {
+            int x = v[i] / m, y = v[i] % m;
+            lab[x][y] = 1;
+        }
+        ans = max(ans, test());
+        for (int i = 0; i < v.size(); i++)
+        {
+            int x = v[i] / m, y = v[i] % m;
+            lab[x][y] = 0;
+        }
         return;
     }
-    if (here <= n)
-    {
-        prog.push_back(here);
-        rec(here + 1);
-        prog.pop_back();
-        rec(here + 1);
-    }
-}
-
-int main()
-{
-    ios_base::sync_with_stdio(false);
-    cin.tie(0);
-    cin >> n >> m;
-    rec(1);
-    return 0;
-}

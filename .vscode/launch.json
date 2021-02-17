@@ -5,25 +5,17 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "g++.exe - 활성 파일 빌드 및 디버그",
+            "name": "g++",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "program": "${fileDirname}/${fileBasenameNoExtension}",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "C:/MinGW/bin",
+            "cwd": "${workspaceFolder}",
             "environment": [],
-            "externalConsole": false,
-            "MIMode": "gdb",
-            "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
-            "setupCommands": [
-                {
-                    "description": "gdb에 자동 서식 지정 사용",
-                    "text": "-enable-pretty-printing",
-                    "ignoreFailures": true
-                }
-            ],
-            "preLaunchTask": "C/C++: g++.exe build active file"
+            "console": "externalTerminal",
+            "MIMode": "lldb",
+            "preLaunchTask": "C/C++: g++ 활성 파일 빌드"
         }
     ]
 }
