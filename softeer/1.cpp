@@ -16,11 +16,20 @@ typedef pair<int, int> ii;
 typedef vector<ii> vii;
 typedef vector<int> vi;
 typedef vector<ll> vll;
-
 int main()
 {
-  ios_base::sync_with_stdio(false);
-  cin.tie(0);
+    ios_base::sync_with_stdio(false);
+    cin.tie(0);
 
-  return 0;
+    ll k, p, n;
+    ll ans;
+    cin >> k >> p >> n;
+    ans = k;
+    for (int i = 0; i < n; i++)
+    {
+        ans = ans * p;
+        ans %= 1000000007;
+    }
+    cout << ans;
+    return 0;
 }

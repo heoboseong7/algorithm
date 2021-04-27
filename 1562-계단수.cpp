@@ -7,7 +7,9 @@ int dp[101][10][1 << 10];
 
 int solve(int cnt, int num, int bits)
 {
-    int ret = dp[cnt][num][bits];
+    // 인스턴스로 해야 해당 값이 수정됨 ㅠ
+    int &ret = dp[cnt][num][bits];
+    // 메모제이션
     if (dp[cnt][num][bits] != -1)
     {
         return ret;

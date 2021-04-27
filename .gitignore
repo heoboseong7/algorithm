@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Code runner files
+tempCodeRunnerFile.cpp

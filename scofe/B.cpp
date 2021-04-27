@@ -17,10 +17,34 @@ typedef vector<ii> vii;
 typedef vector<int> vi;
 typedef vector<ll> vll;
 
+int n;
+string s;
+ll dp[60];
+
 int main()
 {
-  ios_base::sync_with_stdio(false);
-  cin.tie(0);
+    ios_base::sync_with_stdio(false);
+    cin.tie(0);
 
-  return 0;
+    cin >> n;
+    cin >> s;
+    dp[0] = 1;
+    for (int i = 0; i < n; i++)
+    {
+        if (s[i] == '1')
+        {
+            if (i + 1 < n && s[i + 1] == '1')
+            {
+                dp[i + 1] += dp[i];
+            }
+            if (i + 2 < n && s[i + 2] == '1')
+            {
+                dp[i + 2] += dp[i];
+            }
+        }
+    }
+    //cout << s;
+    cout << dp[n - 1];
+
+    return 0;
 }
