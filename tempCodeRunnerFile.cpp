@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <bits/stdc++.h>
 #define MOD 1000000000
 using namespace std;
@@ -61,3 +62,20 @@ int main()
     printf("%d", ans);
     return 0;
 }
+=======
+f (v.size() == 3)
+    {
+        for (int i = 0; i < v.size(); i++)
+        {
+            int x = v[i] / m, y = v[i] % m;
+            lab[x][y] = 1;
+        }
+        ans = max(ans, test());
+        for (int i = 0; i < v.size(); i++)
+        {
+            int x = v[i] / m, y = v[i] % m;
+            lab[x][y] = 0;
+        }
+        return;
+    }
+>>>>>>> 7863e7f04309c4d06efc49374e2ab935fa3fe38e
