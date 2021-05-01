@@ -9,4 +9,4 @@
 |2021.04.28 | [1의 개수 세기](https://www.acmicpc.net/problem/9527) | [코드](9527-1의개수세기.cpp) |  [풀이](9527-1의개수세기.md)|
 |2021.04.29 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | [코드](1644-소수의연속합.cpp) | [풀이](1644-소수의연속합.md)|
 |2021.04.30 | [앱](https://www.acmicpc.net/problem/7579) | [코드](7579-앱.cpp) | [풀이](7579-앱.md)|
-|2021.04.30 | [LCS 2](https://www.acmicpc.net/problem/9252) | [코드](9252-LCS2.cpp) | [풀이](9252-LCS2.md)|
+|2021.05.01 | [LCS 2](https://www.acmicpc.net/problem/9252) | [코드](9252-LCS2.cpp) | [풀이](9252-LCS2.md)|
