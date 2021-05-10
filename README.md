@@ -16,3 +16,4 @@
 | 2021.05.06 | [벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946) | [코드](16946-벽부수고이동하기4.cpp) | [풀이](16946-벽부수고이동하기4.md) |
 | 2021.05.07 | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | [코드](11049-행렬곱셈순서.cpp) | [풀이](16946-벽부수고이동하기4.md) |
 | 2021.05.08 | [Dance Dance Revolution](https://www.acmicpc.net/problem/2342) | [코드](2342-DDR.cpp) | [풀이](16946-벽부수고이동하기4.md) |
+| 2021.05.10 | [외판원 순회](https://www.acmicpc.net/problem/2098) | [코드](2098-외판원순회.cpp) | [풀이](2098-외판원순회.md) |
