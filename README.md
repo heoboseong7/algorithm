@@ -18,3 +18,8 @@
 | 2021.05.08 | [Dance Dance Revolution](https://www.acmicpc.net/problem/2342) | [코드](./baekjoon/2342-DDR.cpp) | [풀이](./solutions/2342-DDR.md) |
 | 2021.05.10 | [외판원 순회](https://www.acmicpc.net/problem/2098) | [코드](./baekjoon/2098-외판원순회.cpp) | [풀이](./solutions/2098-외판원순회.md) |
 | 2021.05.11 | [가장 긴 증가하는 부분수열 5](https://www.acmicpc.net/problem/14003) | [코드](./baekjoon/14003-가장긴증가하는부분수열5.cpp) | [풀이](./solutions/14003-가장긴증가하는부분수열5.md) |
+| 2021.05.12 | [경찰차](https://www.acmicpc.net/problem/2618) | [코드](./baekjoon/2618-경찰차.cpp) | [풀이](./solutions/2618-경찰차.md) |
+| 2021.05.13 | [발전소](https://www.acmicpc.net/problem/1102) | [코드](./baekjoon/1102-발전소.cpp) | [풀이](./solutions/1102-발전소.md) |
+| 2021.05.17 | [가장 긴 증가하는 부분수열 4](https://www.acmicpc.net/problem/14002) | [코드(14003)](./baekjoon/14003-가장긴증가하는부분수열5.cpp) | [풀이(14003)](./solutions/14003-가장긴증가하는부분수열5.md) |
+| 2021.05.17 | [가장 긴 증가하는 부분수열 3](https://www.acmicpc.net/problem/12738) | [코드(14003)](./baekjoon/14003-가장긴증가하는부분수열5.cpp) | [풀이(14003)](./solutions/14003-가장긴증가하는부분수열5.md) |
+| 2021.05.17 | [가장 긴 증가하는 부분수열 2](https://www.acmicpc.net/problem/12015) | [코드(14003)](./baekjoon/14003-가장긴증가하는부분수열5.cpp) | [풀이(14003)](./solutions/14003-가장긴증가하는부분수열5.md) |
