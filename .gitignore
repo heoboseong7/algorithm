@@ -33,6 +33,7 @@
 *.in
 # Code runner files
 tempCodeRunnerFile.cpp
+tempCodeRunnerFile
 
 # vscode
 .vscode
