@@ -24,3 +24,4 @@
 | 2021.05.17 | [가장 긴 증가하는 부분수열 3](https://www.acmicpc.net/problem/12738) | [코드(14003)](./baekjoon/14003-가장긴증가하는부분수열5.cpp) | [풀이(14003)](./solutions/14003-가장긴증가하는부분수열5.md) |
 | 2021.05.17 | [가장 긴 증가하는 부분수열 2](https://www.acmicpc.net/problem/12015) | [코드(14003)](./baekjoon/14003-가장긴증가하는부분수열5.cpp) | [풀이(14003)](./solutions/14003-가장긴증가하는부분수열5.md) |
 | 2021.05.18 | [파일 합치기](https://www.acmicpc.net/problem/11066) | [코드](./baekjoon/11066-파일합치기.cpp) | [풀이](./solutions/11066-파일합치기.md) |
+| 2021.05.19 | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | [코드](./baekjoon/1915-가장큰정사각형.cpp) | [풀이](./solutions/1915-가장큰정사각형.md) |
