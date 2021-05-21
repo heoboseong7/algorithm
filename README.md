@@ -12,7 +12,7 @@
 | 2021.05.01 |      [LCS 2](https://www.acmicpc.net/problem/9252)       |      [코드](./baekjoon/9252-LCS2.cpp)      |     [풀이](./solutions/9252-LCS2.md)     |
 | 2021.05.03 | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | [코드](./baekjoon/11866-요세푸스문제0.cpp) | [풀이](./solutions/11866-요세푸스문제0.md)                 |
 | 2021.05.04 |   [텀 프로젝트](https://www.acmicpc.net/problem/9466)    |   [코드](./baekjoon/9466-텀프로젝트.cpp)   |  [풀이](./solutions/9466-텀프로젝트.md)  |
-| 2021.05.05 |  [팰린드롬 분할](https://www.acmicpc.net/problem/1509)   |  [코드](./baekjoon/1509-팰린드롬분할.cpp)  | [풀이](./solutions/1509-팰린드롬분할.md) |
+| 2021.05.05 |  [팰린드롬 분할](https://www.acmicpc.net/problem/1509)   |  [코드](./baekjoon/01509-팰린드롬분할.cpp)  | [풀이](./solutions/01509-팰린드롬분할.md) |
 | 2021.05.06 | [벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946) | [코드](./baekjoon/16946-벽부수고이동하기4.cpp) | [풀이](./solutions/16946-벽부수고이동하기4.md) |
 | 2021.05.07 | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | [코드](./baekjoon/11049-행렬곱셈순서.cpp) | [풀이](./solutions/11049-행렬곱셈순서.md) |
 | 2021.05.08 | [Dance Dance Revolution](https://www.acmicpc.net/problem/2342) | [코드](./baekjoon/2342-DDR.cpp) | [풀이](./solutions/2342-DDR.md) |
